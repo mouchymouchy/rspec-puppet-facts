@@ -332,6 +332,7 @@ describe RspecPuppetFacts do
                   '18.04',
                   '20.04',
                   '22.04',
+                  '24.04',
                 ],
               },
             ],
@@ -348,6 +349,7 @@ describe RspecPuppetFacts do
           'ubuntu-18.04-x86_64',
           'ubuntu-20.04-x86_64',
           'ubuntu-22.04-x86_64',
+          'ubuntu-24.04-x86_64',
         )
       end
     end
